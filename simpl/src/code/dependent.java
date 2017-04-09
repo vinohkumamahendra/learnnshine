@@ -6,5 +6,6 @@ public class dependent {
 	   
 	   System.out.println("Hello from dependent1");
 	   System.out.println("Hello from dependent3");
+	   System.out.println("Hello from dependent");
    }
 }
