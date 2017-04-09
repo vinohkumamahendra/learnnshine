@@ -1,0 +1,7 @@
+package code;
+
+public class dependent1 {
+   public void print(){
+	   System.out.println("Hello from dependent");
+   }
+}
